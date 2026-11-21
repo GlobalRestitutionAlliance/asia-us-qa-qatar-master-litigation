@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-qatar-canal-and-intervention-historian
-  name: Qatar Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-qatar-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_qa_001
+    name: Qatar Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_002
+    name: Qatar Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_003
+    name: Qatar Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_004
+    name: Qatar Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_005
+    name: Qatar Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_006
+    name: Qatar Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_007
+    name: Qatar Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_008
+    name: Qatar Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_009
+    name: Qatar Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_010
+    name: Qatar Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_011
+    name: Qatar Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_012
+    name: Qatar Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_013
+    name: Qatar Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_014
+    name: Qatar Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_015
+    name: Qatar Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_016
+    name: Qatar Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_017
+    name: Qatar Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_018
+    name: Qatar Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_019
+    name: Qatar Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_020
+    name: Qatar Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_021
+    name: Qatar Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_022
+    name: Qatar Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_023
+    name: Qatar Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_024
+    name: Qatar Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_025
+    name: Qatar Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_026
+    name: Qatar Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_027
+    name: Qatar Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_028
+    name: Qatar Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_029
+    name: Qatar Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_030
+    name: Qatar Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_031
+    name: Qatar Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_032
+    name: Qatar Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_033
+    name: Qatar Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_034
+    name: Qatar Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_035
+    name: Qatar Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_036
+    name: Qatar Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_037
+    name: Qatar Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_038
+    name: Qatar Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_039
+    name: Qatar Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_040
+    name: Qatar Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_041
+    name: Qatar Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_042
+    name: Qatar Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_043
+    name: Qatar Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_044
+    name: Qatar Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_045
+    name: Qatar Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_046
+    name: Qatar Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_047
+    name: Qatar Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_048
+    name: Qatar Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_049
+    name: Qatar Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_050
+    name: Qatar Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_051
+    name: Qatar Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_052
+    name: Qatar Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_053
+    name: Qatar Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_054
+    name: Qatar Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_055
+    name: Qatar Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_056
+    name: Qatar Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_057
+    name: Qatar Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_058
+    name: Qatar Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_059
+    name: Qatar Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_060
+    name: Qatar Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_061
+    name: Qatar Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_062
+    name: Qatar Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_063
+    name: Qatar Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_064
+    name: Qatar Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_065
+    name: Qatar Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_066
+    name: Qatar Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_067
+    name: Qatar Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_068
+    name: Qatar Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_069
+    name: Qatar Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_070
+    name: Qatar Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_071
+    name: Qatar Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_072
+    name: Qatar Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_073
+    name: Qatar Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_074
+    name: Qatar Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_075
+    name: Qatar Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_076
+    name: Qatar Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_077
+    name: Qatar Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_078
+    name: Qatar Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_079
+    name: Qatar Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_080
+    name: Qatar Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_081
+    name: Qatar Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_082
+    name: Qatar Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_083
+    name: Qatar Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_084
+    name: Qatar Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_085
+    name: Qatar Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_086
+    name: Qatar Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_087
+    name: Qatar Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_088
+    name: Qatar Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_089
+    name: Qatar Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_090
+    name: Qatar Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_091
+    name: Qatar Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_092
+    name: Qatar Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_093
+    name: Qatar Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_094
+    name: Qatar Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_095
+    name: Qatar Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_096
+    name: Qatar Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_097
+    name: Qatar Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_098
+    name: Qatar Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_099
+    name: Qatar Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_100
+    name: Qatar Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_101
+    name: Qatar Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_102
+    name: Qatar Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_103
+    name: Qatar Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_104
+    name: Qatar Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_105
+    name: Qatar Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_106
+    name: Qatar Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_107
+    name: Qatar Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_108
+    name: Qatar Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_109
+    name: Qatar Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_110
+    name: Qatar Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_111
+    name: Qatar Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_112
+    name: Qatar Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_113
+    name: Qatar Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_114
+    name: Qatar Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_115
+    name: Qatar Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_116
+    name: Qatar Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_117
+    name: Qatar Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_118
+    name: Qatar Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_119
+    name: Qatar Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_120
+    name: Qatar Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_121
+    name: Qatar Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_122
+    name: Qatar Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_123
+    name: Qatar Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_124
+    name: Qatar Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_125
+    name: Qatar Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_126
+    name: Qatar Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_127
+    name: Qatar Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_128
+    name: Qatar Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_129
+    name: Qatar Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_130
+    name: Qatar Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_131
+    name: Qatar Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_132
+    name: Qatar Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_133
+    name: Qatar Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_134
+    name: Qatar Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_135
+    name: Qatar Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_136
+    name: Qatar Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_137
+    name: Qatar Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_138
+    name: Qatar Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_139
+    name: Qatar Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_140
+    name: Qatar Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_141
+    name: Qatar Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_142
+    name: Qatar Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_143
+    name: Qatar Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_144
+    name: Qatar Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_145
+    name: Qatar Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_146
+    name: Qatar Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_147
+    name: Qatar Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_148
+    name: Qatar Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_149
+    name: Qatar Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_150
+    name: Qatar Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_151
+    name: Qatar Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_152
+    name: Qatar Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_153
+    name: Qatar Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_154
+    name: Qatar Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_155
+    name: Qatar Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_156
+    name: Qatar Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_157
+    name: Qatar Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_158
+    name: Qatar Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_159
+    name: Qatar Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_160
+    name: Qatar Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_161
+    name: Qatar Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_162
+    name: Qatar Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_163
+    name: Qatar Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_164
+    name: Qatar Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_165
+    name: Qatar Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_166
+    name: Qatar Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_167
+    name: Qatar Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_168
+    name: Qatar Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_169
+    name: Qatar Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_qa_170
+    name: Qatar Agent 170
+    status: ACTIVE_SCAFFOLD
